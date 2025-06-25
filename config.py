@@ -1,0 +1,7 @@
+protocol = 'http'
+host = '0.0.0.0'
+port = 8001
+
+run_url = f'{protocol}://{host}:{port}'
+
+db_path = 'hosts.json'
